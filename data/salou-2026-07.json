@@ -1,0 +1,1278 @@
+{
+  "meta": {
+    "generated_at": "2026-06-08T19:00:00Z",
+    "origin": {
+      "city": "Warsaw",
+      "airports": [
+        "WAW",
+        "WMI"
+      ]
+    },
+    "destination": {
+      "city": "Salou",
+      "iata": "BCN",
+      "coords": [
+        41.0772,
+        1.1417
+      ]
+    },
+    "window": {
+      "earliest": "2026-07-20",
+      "latest": "2026-07-30"
+    },
+    "trip_lengths": [
+      10
+    ],
+    "travelers": {
+      "adults": 4,
+      "children": 0
+    },
+    "currency": "USD",
+    "fx_used": {
+      "EUR": 1.15,
+      "PLN": 0.275
+    },
+    "transfer_est_usd": 155.94,
+    "meal_cost": {
+      "amount": 50.0,
+      "currency": "EUR",
+      "per": "meal_for_two",
+      "meals_per_day": 2,
+      "source": "https://www.numbeo.com/cost-of-living/in/Tarragona",
+      "note_ru": "Numbeo «Meal for 2 People, Mid-range Restaurant (Three Courses)» для Таррагоны (ближайший к Салоу город с данными): 50 € за двоих. Сумма как опубликована, не делена."
+    },
+    "hero_image": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Faro_de_Salou.jpg/1920px-Faro_de_Salou.jpg",
+      "caption": "Маяк на мысе Кап-де-Салоу над Средиземным морем — открыточный символ Коста-Даурады",
+      "map": "Salou, Spain"
+    },
+    "warnings": [
+      "Прямого рейса в Реус (REU, ~15 км от Салоу) из Варшавы на эти даты нет — все варианты прилетают в Барселону (BCN). До Салоу ~1,5–2 ч прямым автобусом BusPlana от терминалов T1/T2 (18,60 € в одну сторону, 33,90 € туда-обратно). Трансфер туда-обратно на 4 человек (≈$156) включён в общий итог и в разбивку каждого варианта.",
+      "Багаж: базовый тариф Wizz/Ryanair включает только сумку под сиденье. В итог добавлена большая ручная кладь Priority на человека в обе стороны (Wizz ≈€25 + Ryanair ≈€20 = €45/чел туда-обратно). Для поездки на 10 дней вчетвером, скорее всего, понадобится регистрируемый чемодан 20 кг — он стоит дороже, проверьте тариф при бронировании.",
+      "Условие «2 номера на 4 человек, в одном 2 отдельные кровати (twin)» проверено по каждому варианту на Booking. Апартаменты (Apolo, Ona, Palas, Cye) — это «Two-Bedroom Apartment»: одна единица на 4 человек с двумя отдельными спальнями, одна из них уже с раздельными кроватями (у Cye обе спальни twin; у Ona вторая спальня — «2 individual beds»). Отели (H10 Vintage, SOL by Meliá) — берите 2 номера по 2 взрослых и при выборе кроватей укажите Twin / «2 single beds» (у H10 большинство номеров и так twin, у SOL есть конфигурация «2 single beds» и смежные номера по запросу). Точную конфигурацию кроватей всегда подтверждайте на шаге выбора номера при бронировании.",
+      "Перелёт показан дневным прямым рейсом Wizz/Ryanair (WMI 11:40 → BCN 14:45, обратно BCN 20:25 → WMI 23:30). Цена 538,80 € — за всех 4 человек туда-обратно."
+    ],
+    "bag_fees_included": true
+  },
+  "candidates": [
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "апарт-отель",
+        "name": "Apolo Suites Rentalmar",
+        "area": "Ла-Пинеда, у моря (≈41.064, 1.177)",
+        "in_recommended_area": false,
+        "rating": {
+          "value": 7.5,
+          "scale": 10,
+          "reviews": 1395
+        },
+        "photo_url": "https://q-xx.bstatic.com/xdata/images/hotel/608x352/644211679.webp?k=d5592263d16440b5bf72b21b5c545bff9e563d92d6d8df721495324d106704ac&o=",
+        "blurb_ru": "Современные сьюты у моря в Ла-Пинеде: кухня, терраса, взрослый и детский бассейн, солярий, фитнес",
+        "price_total": {
+          "amount": 1462.72,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/sense-nom-la-pineda.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 1462.72
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 1462.72,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 2445.28,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.95,
+        "cost_score": 1.0,
+        "rating01": 0.75,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "balance",
+        "experience",
+        "cheapest"
+      ],
+      "archetype": "balance",
+      "why_this_one": "Лучшее сочетание цены, качества жилья и удобного перелёта."
+    },
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "квартира целиком (Airbnb)",
+        "name": "Holiday apartment Salou (Airbnb)",
+        "area": "Центр Салоу (≈41.071, 1.146)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 4.88,
+          "scale": 5,
+          "reviews": 33
+        },
+        "photo_url": "https://a0.muscache.com/im/pictures/064a6f59-f0d2-4ca0-8c3f-cb1a64d33fd2.jpg",
+        "blurb_ru": "Целая квартира с 2 спальнями в центре: двуспальная + 3 односпальные кровати, диван, встроенные шкафы",
+        "price_total": {
+          "amount": 2285,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.airbnb.com/rooms/30200773?check_in=2026-07-20&check_out=2026-07-30&adults=4&children=0&infants=0&pets=0",
+        "source": "airbnb",
+        "price_total_usd": 2285.0
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 2285.0,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 3267.56,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.8744,
+        "cost_score": 0.758,
+        "rating01": 0.976,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "locals"
+      ],
+      "archetype": "locals",
+      "why_this_one": "Жильё в районе, который советуют местные."
+    },
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "апарт-отель",
+        "name": "Ona Jardines Paraisol",
+        "area": "Центр Салоу (≈41.083, 1.130)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 8.8,
+          "scale": 10,
+          "reviews": 2254
+        },
+        "photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/204711943.jpg?k=9998cc7ccab3e65480dfce8cc39c69bba580598a4dda898b222d6260e6b0a430&o=",
+        "blurb_ru": "Тихие апартаменты в 10 мин от пляжа: бассейн с водопадом и горкой, сад, трансфер из аэропорта",
+        "price_total": {
+          "amount": 2216.69,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/jardines-paraisol.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 2216.69
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 2216.69,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 3199.25,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.8652,
+        "cost_score": 0.778,
+        "rating01": 0.88,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "alternative"
+      ],
+      "archetype": "alternative",
+      "why_this_one": "Хорошая альтернатива по соотношению цены и качества."
+    },
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "апартаменты",
+        "name": "Apartamentos Palas Salou",
+        "area": "Центр Салоу, у пляжа Ponent (≈41.081, 1.131)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 8.5,
+          "scale": 10,
+          "reviews": 603
+        },
+        "photo_url": "https://q-xx.bstatic.com/xdata/images/hotel/608x352/5592277.webp?k=dd960cb0978df29cab63ef6c118368cc9efe992b60c868b8e1b5ce6ac91e1a5b&o=",
+        "blurb_ru": "Просторные апартаменты в центре Салоу, 5 минут пешком до пляжа, бассейн и парковка",
+        "price_total": {
+          "amount": 2579.32,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/palas-salou.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 2579.32
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 2579.32,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 3561.88,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.8059,
+        "cost_score": 0.672,
+        "rating01": 0.85,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "alternative"
+      ],
+      "archetype": "alternative",
+      "why_this_one": "Хорошая альтернатива по соотношению цены и качества."
+    },
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "резорт",
+        "name": "Aparthotel Cye Holiday Centre",
+        "area": "Центр Салоу, 300 м до пляжа (≈41.078, 1.136)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 8.2,
+          "scale": 10,
+          "reviews": 930
+        },
+        "photo_url": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/180498684.jpg?k=b1a2c7aa1908859d561d39f918916a61afaa51c6eeccbe19ad5e64f771434e79&o=",
+        "blurb_ru": "В 300 м от пляжа: ресторан, детский клуб, анимация, бассейн с детской зоной — формат курорта «всё рядом»",
+        "price_total": {
+          "amount": 3211.81,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/cye-holiday-centre.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 3211.81
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 3211.81,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 4194.37,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.707,
+        "cost_score": 0.486,
+        "rating01": 0.82,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "alternative"
+      ],
+      "archetype": "alternative",
+      "why_this_one": "Хорошая альтернатива по соотношению цены и качества."
+    }
+  ],
+  "alternatives": [
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "отель 4★ · только для взрослых",
+        "name": "H10 Vintage Salou - Adults Only",
+        "area": "Центр Салоу, 600 м до пляжа Llevant (≈41.078, 1.143)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 8.7,
+          "scale": 10,
+          "reviews": 1344
+        },
+        "photo_url": "https://r-xx.bstatic.com/xdata/images/hotel/608x352/724997524.webp?k=96ab70770e0f69b40501a02e9eaaad4a3785cc15d2a4da051cd749c75634d83a&o=",
+        "blurb_ru": "Отель 4★ только для взрослых в 600 м от пляжа Льевант: крыша с плунж-пулом, спа и фитнес",
+        "price_total": {
+          "amount": 4380.68,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/h10europapark.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 4380.68
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 4380.68,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 5363.24,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.5453,
+        "cost_score": 0.143,
+        "rating01": 0.87,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "alternative"
+      ],
+      "archetype": "alternative",
+      "why_this_one": "Хорошая альтернатива по соотношению цены и качества."
+    },
+    {
+      "dates": {
+        "depart": "2026-07-20",
+        "return": "2026-07-30",
+        "nights": 10
+      },
+      "flight": {
+        "airline": "Wizz Air / Ryanair",
+        "route": "WMI→BCN прямой / BCN→WMI прямой",
+        "stops": 0,
+        "via_ru": "",
+        "duration_min": 185,
+        "redeye": false,
+        "depart_time": "11:40",
+        "price": {
+          "amount": 538.8,
+          "currency": "EUR"
+        },
+        "bag_fee": {
+          "amount": 45,
+          "currency": "EUR",
+          "per": "round_trip_per_person",
+          "includes_ru": "большая ручная кладь Priority в обе стороны (Wizz €25 + Ryanair €20)",
+          "basis_ru": "Wizz Priority €25 в одну сторону + Ryanair Priority €20 в другую",
+          "source": "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+        },
+        "deeplink": "https://www.lastminute.ie/msr/route/searching.do?departureAirport=WAW&arrivalAirport=BCN&outboundDay=20&outboundMonthYear=072026&returnDay=30&returnMonthYear=072026&adults=4&childs=0&infants=0&COBRANDED=LMNEN_LLMPROJECTEN&currency=EUR&url=search3.do&roundtrip=true&fareType=&requestId=783407288473696256&mac=783407288473696256SCHv011392492728&acntb=flight&utm_term=WAWBCN&utm_campaign=results&utm_medium=meta_search&utm_source=LMNEN_LLMPROJECTEN&bf_subsource=-----WS0S02RS01&j=538800&jC=538800_EUR&cp=0",
+        "source": "lastminute",
+        "price_usd": 619.62
+      },
+      "stay": {
+        "kind": "резорт 4★",
+        "name": "SOL by Meliá Costa Daurada",
+        "area": "Салоу, 700 м до PortAventura (≈41.082, 1.143)",
+        "in_recommended_area": true,
+        "rating": {
+          "value": 8.2,
+          "scale": 10,
+          "reviews": 3117
+        },
+        "photo_url": "https://r-xx.bstatic.com/xdata/images/hotel/608x352/698533601.webp?k=8f9b21ea0306c0964afbfb5ecadb59214621a831dc2c86febf237da856207836&o=",
+        "blurb_ru": "Семейный курорт 4★ в 700 м от PortAventura: крытый и открытый бассейны, спа и детский клуб",
+        "price_total": {
+          "amount": 4865.65,
+          "currency": "USD"
+        },
+        "deeplink": "https://www.booking.com/hotel/es/sol-costa-daurada.html?aid=8132308&checkin=2026-07-20&checkout=2026-07-30&no_rooms=2&group_adults=4&selected_currency=USD",
+        "source": "booking",
+        "price_total_usd": 4865.65
+      },
+      "transfer_est_usd": 155.94,
+      "is_package": false,
+      "breakdown": {
+        "flight": 619.62,
+        "stay": 4865.65,
+        "transfer": 155.94,
+        "bags": 207.0
+      },
+      "total_usd": 5848.21,
+      "events_in_window": [
+        {
+          "name": "Sant Jaume (Santiago Apóstol)",
+          "date": "2026-07-25",
+          "why": "Католический праздник 25 июля; в городках Коста-Даурады (например, Festa Major d'estiu в Mont-roig / Miami Platja рядом) проходят балы и концерты. В Каталонии это не выходной — магазины Салоу работают. Фиксированная ежегодная дата; точная программа 2026 публикуется ближе к датам.",
+          "source": "https://mont-roig.cat/lajuntament/arees/festes/sant-jaume/"
+        },
+        {
+          "name": "Концерт Eva Ayllón",
+          "date": "2026-07-24",
+          "why": "Билетный концерт в Sala Razzmatazz 1 в Барселоне (~1 ч 25 мин на поезде от Салоу) — вариант для вечерней вылазки в город.",
+          "source": "https://www.ticketmaster.es/event/eva-ayllon-tickets/405371492?language=en-us"
+        },
+        {
+          "name": "SIX60 — Euro Tour 2026",
+          "date": "2026-07-21",
+          "why": "Билетный концерт в Sala Razzmatazz 3 в Барселоне — для тех, кто готов на день уехать в столицу.",
+          "source": "https://www.ticketmaster.es/event/six60-euro-tour-2026-tickets/1940144014?language=en-us"
+        }
+      ],
+      "score": {
+        "value": 0.464,
+        "cost_score": 0.0,
+        "rating01": 0.82,
+        "flight_score": 1.0
+      },
+      "archetypes": [
+        "alternative"
+      ],
+      "archetype": "alternative",
+      "why_this_one": "Хорошая альтернатива по соотношению цены и качества."
+    }
+  ],
+  "destination_brief": {
+    "transport": "Прилёт в Барселону (BCN); до Салоу ~1,5–2 ч прямым автобусом BusPlana. Сам Салоу компактный и пешеходный, вдоль побережья ходит автобус Plana и туристический «поезд». От станции Salou-PortAventura — электрички Rodalies до Таррагоны (~13 мин) и Барселоны (~1 ч 25 мин).",
+    "transport_facts": [
+      {
+        "label": "Аэропорт прилёта",
+        "value": "Барселона BCN (~100 км). Прямого рейса в местный Реус (REU) из Варшавы на эти даты нет",
+        "map": "Barcelona El Prat Airport"
+      },
+      {
+        "label": "Из аэропорта в Салоу",
+        "value": "Прямой автобус BusPlana от T1/T2 → автостанция Салоу, ~1,5–2 ч, 18,60 € в одну сторону / 33,90 € туда-обратно",
+        "map": "Estació d'Autobusos Salou"
+      },
+      {
+        "label": "Поезд по региону",
+        "value": "Станция Salou-PortAventura: Rodalies R16/R17 до Таррагоны ~13 мин (1–3 €) и до Барселоны ~1 ч 25 мин (от 15,30 €)",
+        "map": "Salou-PortAventura station"
+      },
+      {
+        "label": "На месте",
+        "value": "Центр пешеходный; прибрежный автобус Plana и турпоезд связывают пляжи. Машина в самом Салоу скорее обуза — парковка летом дорогая и забита",
+        "map": "Passeig Jaume I, Salou"
+      }
+    ],
+    "sights": [
+      {
+        "text": "Passeig de Jaume I и Font Lluminosa — приморская набережная со светомузыкальным фонтаном Карлеса Буигаса; вечернее шоу воды и света в начале променада.",
+        "map": "Font Lluminosa, Salou"
+      },
+      {
+        "text": "Platja de Llevant — главный песчаный пляж Салоу: пологий вход, золотистый песок, вся инфраструктура; рядом Platja de Ponent.",
+        "map": "Platja de Llevant, Salou"
+      },
+      {
+        "text": "Cap Salou и тропа Camí de Ronda — 9-км прибрежная тропа мимо скалистых бухт Cala Crancs, Cala Font, Cala Penya Tallada; прозрачная вода для снорклинга.",
+        "map": "Cami de Ronda, Cap Salou"
+      },
+      {
+        "text": "PortAventura World — крупнейший тематический парк региона в 6 км: горки Shambhala и Dragon Khan, зона Ferrari Land с Red Force.",
+        "map": "PortAventura World, Salou"
+      }
+    ],
+    "highlights": [
+      "Поющий фонтан Font Lluminosa и набережная Жауме I",
+      "Пляж Platja de Llevant и бухты мыса Cap Salou",
+      "PortAventura World и Ferrari Land",
+      "Римская Таррагона (ЮНЕСКО) в 13 минутах на поезде"
+    ],
+    "weather_stats": [
+      {
+        "label": "Днём",
+        "value": "+30°"
+      },
+      {
+        "label": "Ночью",
+        "value": "+23°"
+      },
+      {
+        "label": "Море",
+        "value": "+27°"
+      },
+      {
+        "label": "Осадки",
+        "value": "≈7 дней за месяц"
+      },
+      {
+        "label": "Световой день",
+        "value": "14.8 ч"
+      },
+      {
+        "label": "Ветер",
+        "value": "19 км/ч"
+      }
+    ],
+    "weather_caption": "Конец июля на Коста-Даураде: жарко и солнечно, около +30° днём и +23° ночью, море прогрето до +27°. Дождь маловероятен — берите крем SPF, шляпу и воду.",
+    "sunrise": "06:44",
+    "sunset": "21:19",
+    "weather": [
+      "Днём около +30 °C, ночью +23 °C — типичное пекло западного Средиземноморья в июле.",
+      "Море тёплое, ~+27 °C; купаться комфортно весь день.",
+      "Осадки редки (~7 дней с дождём за месяц по климатологии ERA5); в основном солнце."
+    ],
+    "images": [
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Shambala_-_Port_Aventura.jpg/1920px-Shambala_-_Port_Aventura.jpg",
+        "caption": "PortAventura World — вход к гиперкостеру Shambhala",
+        "map": "PortAventura World, Salou"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Roller_coasters_at_Port_Aventura.JPG/1920px-Roller_coasters_at_Port_Aventura.JPG",
+        "caption": "Американские горки Shambhala и Dragon Khan в PortAventura",
+        "map": "PortAventura World, Salou"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Amphitheatre_of_Tarragona_01.jpg/1920px-Amphitheatre_of_Tarragona_01.jpg",
+        "caption": "Римский амфитеатр Таррагоны у самого моря",
+        "map": "Amfiteatre Roma de Tarragona"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flota_pesquera_Cambrils_-_panoramio.jpg/1920px-Flota_pesquera_Cambrils_-_panoramio.jpg",
+        "caption": "Рыбацкий флот в порту Камбрильса",
+        "map": "Port de Cambrils"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cala-Crancs-playa-salou.jpg",
+        "caption": "Бухта Кала-Кранкс на мысе Кап-де-Салоу — тихая бухта в зелени",
+        "map": "Cala Crancs, Salou"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Salou_Platja_de_Llevant_%2819120679632%29.jpg/1920px-Salou_Platja_de_Llevant_%2819120679632%29.jpg",
+        "caption": "Пляж Платья-де-Льевант — главная золотистая полоса Салоу",
+        "map": "Platja de Llevant, Salou"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Salou_Fountain.JPG/1920px-Salou_Fountain.JPG",
+        "caption": "Font Lluminosa — светомузыкальный фонтан в начале набережной Жауме I",
+        "map": "Font Lluminosa, Salou"
+      },
+      {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Casa_Nav%C3%A0s_a_la_Pla%C3%A7a_del_Mercadal_de_Reus.jpg/1920px-Casa_Nav%C3%A0s_a_la_Pla%C3%A7a_del_Mercadal_de_Reus.jpg",
+        "caption": "Реус: модернистский Casa Navas на площади Меркадаль",
+        "map": "Casa Navas, Reus"
+      }
+    ],
+    "source": "https://archive-api.open-meteo.com/v1/archive?latitude=41.0772&longitude=1.1417&start_date=2025-07-01&end_date=2025-07-31&daily=temperature_2m_max,temperature_2m_min,precipitation_sum,precipitation_hours,daylight_duration,sunrise,sunset,wind_speed_10m_max&timezone=auto"
+  },
+  "local_knowledge": {
+    "scam_alerts": [
+      {
+        "title": "Подмешивание в напитки в клубах",
+        "where": "Ночная зона Carrer Carles Buïgas, бич-бары у Platja de Llevant",
+        "how_it_works": "В клубах на главной тусовочной полосе фиксируются случаи, когда после 1–2 коктейлей человек теряет сознание и просыпается без ценностей; Mossos d'Esquadra получают жалобы каждое лето.",
+        "advice": "Не оставляйте бокал без присмотра, берите напитки у барстойки и смотрите, как наливают; держитесь группой; при резком ухудшении у кого-то из своих — сразу 112.",
+        "source": "https://beforeyougotravels.com/destinations/salou"
+      },
+      {
+        "title": "Скретч-карты и таймшер-ловушка",
+        "where": "Набережная Passeig Jaume I, у супермаркетов и подъездов к PortAventura",
+        "how_it_works": "Промоутеры раздают «выигрышные» скретч-карты; приз надо забрать на «презентации» — это таймшер-питч на 2–4 часа с агрессивными продажами.",
+        "advice": "Отказывайтесь от любых скретч-карт на улице — легальные компании так призы не раздают. По закону ЕС вы вправе уйти с таймшер-презентации в любой момент.",
+        "source": "https://beforeyougotravels.com/destinations/salou"
+      },
+      {
+        "title": "Кражи телефонов и карманники на пляже",
+        "where": "Platja de Llevant и людные пляжи Салоу, вечерние рынки",
+        "how_it_works": "Один отвлекает, второй забирает телефон/кошелёк из-под полотенца, пока вы купаетесь; летом 2025 Mossos задержали пару, крававшую дорогие смартфоны прямо с пляжа.",
+        "advice": "Берите на пляж только необходимое; кто-то из четверых всегда остаётся у вещей во время купания; используйте локеры; не выставляйте напоказ дорогие телефоны.",
+        "source": "https://en.eloutput.com/news/Mobile/A-couple-arrested-in-Salou-after-stealing-high-end-cell-phones-on-the-beach./"
+      },
+      {
+        "title": "Нелицензированные такси и навязывание при аренде авто",
+        "where": "У клубов ночью; стойки проката авто",
+        "how_it_works": "Нелегальные «такси» у клубов берут завышенный фикс ночью; при прокате навязывают допстраховку и потом выставляют счёт за «царапины».",
+        "advice": "Ночью используйте Cabify/Bolt или официальное такси, цену оговаривайте заранее. При прокате — 20+ фото машины, храните бумаги, политика топлива «full-to-full».",
+        "source": "https://daveinspain.com/a-complete-guide-to-car-hire-salou/"
+      }
+    ],
+    "mistakes": [
+      {
+        "severity": "high",
+        "title": "Ехать в PortAventura в выходные и во второй половине дня",
+        "consequence": "В июле очереди на Shambhala и Red Force легко превышают час; пик — с 11:30, в выходные толпы максимальны.",
+        "instead": "Идти во вт–чт, быть у входа за 30 мин до открытия и первые 90 минут «выбивать» топ-аттракционы. Скачать офиц. приложение с реальным временем очередей.",
+        "map": "https://maps.google.com/?q=PortAventura+World+Salou",
+        "source": "https://www.portaventuraworld.com/blog/en/influx-best-time-day-to-go"
+      },
+      {
+        "severity": "medium",
+        "title": "Брать машину для самого Салоу в июле–августе",
+        "consequence": "Место у пляжа в пик сезона найти почти невозможно; подземный паркинг €20+ в день, тесно; трафик и односторонние улицы выматывают.",
+        "instead": "Салоу компактный — ходит прибрежный автобус Plana и турпоезд. Авто берите только на дни вылазок и выезжайте рано.",
+        "map": "https://maps.google.com/?q=Parking+Salou+playa",
+        "source": "https://daveinspain.com/a-complete-guide-to-car-hire-salou/"
+      },
+      {
+        "severity": "low",
+        "title": "Ждать «аутентичной» Испании на полосе Carles Buïgas",
+        "consequence": "Carrer Carles Buïgas — интернациональная туристическая зона (ирландские пабы, сувенирка, клубы до рассвета); летом очень шумно и «не по-испански».",
+        "instead": "За тапас и спокойный ужин уходите на боковые улицы (Calle Barcelona за ж/д путями) или ездите есть в Камбрильс/Таррагону к местным.",
+        "map": "https://maps.google.com/?q=Carrer+Carles+Buigas+Salou",
+        "source": "https://www.minube.net/place/carles-buigas-avenue--a79620"
+      }
+    ],
+    "crowd_forecast": {
+      "months": [
+        {
+          "month": "JAN",
+          "level": "low"
+        },
+        {
+          "month": "FEB",
+          "level": "low"
+        },
+        {
+          "month": "MAR",
+          "level": "low"
+        },
+        {
+          "month": "APR",
+          "level": "medium"
+        },
+        {
+          "month": "MAY",
+          "level": "medium"
+        },
+        {
+          "month": "JUN",
+          "level": "medium"
+        },
+        {
+          "month": "JUL",
+          "level": "peak"
+        },
+        {
+          "month": "AUG",
+          "level": "peak"
+        },
+        {
+          "month": "SEP",
+          "level": "medium"
+        },
+        {
+          "month": "OCT",
+          "level": "high"
+        },
+        {
+          "month": "NOV",
+          "level": "low"
+        },
+        {
+          "month": "DEC",
+          "level": "low"
+        }
+      ],
+      "your_trip_month": "JUL",
+      "source": "https://www.whereandwhen.net/when/europe/spain/salou/"
+    },
+    "not_for_everyone": [
+      "Тем, кто ищет тишину и «аутентику»: Салоу в июле — это плотные толпы, шумная ночная полоса Carles Buïgas и очень загруженные центральные пляжи.",
+      "Тем, кто плохо переносит жару: в конце июля дневные максимумы ~30 °C, ночью редко ниже ~20 °C; полный день в PortAventura под солнцем тяжёл.",
+      "Любителям спокойной парковки и езды: трафик и поиск места у пляжа в пик сезона выматывают — машина в самом Салоу скорее обуза."
+    ],
+    "works_best": [
+      "Семьям и компаниям 4 человека: центральные Llevant/Ponent с детскими площадками, мелководьем и всей инфраструктурой; PortAventura, Ferrari Land и аквапарк Caribe рядом.",
+      "Любителям снорклинга и тихих бухт: скалистые калы Cap Salou (Cala Crancs, Cala Font, Cala Penya Tallada) с прозрачной водой; приезжать рано.",
+      "Тем, кто совмещает пляж и парк: июль оправдан, когда тёплое море важнее коротких очередей; день в парке защищают ранним стартом и приложением.",
+      "Прогулкам: 9-км прибрежная тропа Camí de Ronda связывает все пляжи — идти рано утром, не в полуденную жару."
+    ],
+    "local_spots": [
+      {
+        "name": "El Serrallo (рыбацкий квартал Таррагоны)",
+        "type": "Морепродукты у местных",
+        "why": "Рабочий рыбный порт в 2 км от центра Таррагоны; улов привозят утром. Фирменное: arròs negre, romescada, жареные анчоусы. Ориентир — El Pòsit del Serrallo.",
+        "map": "https://maps.google.com/?q=El+Serrallo+Tarragona",
+        "source": "https://www.tarragonaturisme.cat/en/el-serrallo-seafaring-quarter-tarragona",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Flota_pesquera_Cambrils_-_panoramio.jpg/1920px-Flota_pesquera_Cambrils_-_panoramio.jpg"
+      },
+      {
+        "name": "Mercat Central de Tarragona",
+        "type": "Рынок / быстрый обед",
+        "why": "Почти полностью местный рынок: на стойках жарят свежих кальмаров и креветки при вас, едите стоя за €8–12. Закрывается ~14:00.",
+        "map": "https://maps.google.com/?q=Mercat+Central+Tarragona",
+        "source": "https://tourismattractions.net/spain/one-day-in-tarragona-itinerary",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Amphitheatre_of_Tarragona_01.jpg/1920px-Amphitheatre_of_Tarragona_01.jpg"
+      },
+      {
+        "name": "Порт Камбрильса",
+        "type": "Рис и морепродукты",
+        "why": "Камбрильс — гастрономическая «рыбацкая» альтернатива Салоу в 15 мин: paella, fideuà, рис с лобстером от семей рыбаков, вдали от туристических мест Салоу.",
+        "map": "https://maps.google.com/?q=Port+de+Cambrils",
+        "source": "https://www.elposit.com/en/restaurants/el-posit-de-cambrils",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cala-Crancs-playa-salou.jpg"
+      },
+      {
+        "name": "Calle Barcelona (Салоу, за ж/д путями)",
+        "type": "Тапас-бары",
+        "why": "Тихая «испанская» сторона Салоу: уютные тапас-бары в стороне от шумной полосы Carles Buïgas; пройти за ж/д пути ~10 мин.",
+        "map": "https://maps.google.com/?q=Calle+Barcelona+Salou",
+        "source": "https://www.salou-tourist-guide.com/en/club/salou-nightlife.html",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Salou_Fountain.JPG/1920px-Salou_Fountain.JPG"
+      },
+      {
+        "name": "Pont del Diable (акведук Les Ferreres)",
+        "type": "Римское наследие / бесплатно",
+        "why": "27-метровый римский акведук I в. в сосновом лесу под Таррагоной; вход бесплатный, автобус №5 ~15 мин. По верхнему ярусу можно пройти — детей держать рядом.",
+        "map": "https://maps.google.com/?q=Pont+del+Diable+Tarragona",
+        "source": "https://tourismattractions.net/spain/one-day-in-tarragona-itinerary",
+        "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Casa_Nav%C3%A0s_a_la_Pla%C3%A7a_del_Mercadal_de_Reus.jpg/1920px-Casa_Nav%C3%A0s_a_la_Pla%C3%A7a_del_Mercadal_de_Reus.jpg"
+      }
+    ],
+    "community_tips": [
+      {
+        "tip": "Салоу — скорее семейный курорт, но клубная зона есть: средняя/нижняя часть Carles Buïgas работает до 6 утра. На полосе раздают флаеры с «бесплатным шотом» — по желанию.",
+        "platform": "forum",
+        "source": "https://www.tripadvisor.co.uk/ShowTopic-g562814-i9698-k14658505-Main_strip_of_bars_restaurants-Salou_Costa_Dorada_Province_of_Tarragona_Catalonia.html"
+      },
+      {
+        "tip": "Для семей с детьми Камбрильс — спокойнее шумного центра Салоу: те же удобства, но тише.",
+        "platform": "blog",
+        "source": "https://barcelonahacks.com/salou-holidays/"
+      },
+      {
+        "tip": "Туристы отмечают: в Салоу несколько лет растёт проблема краж телефонов на пляже летом — не оставляйте устройства на полотенце во время купания.",
+        "platform": "forum",
+        "source": "https://salou.co.uk/Safety.html",
+        "confidence": "low"
+      },
+      {
+        "tip": "По PortAventura: толпы устремляются в Ferrari Land при открытии, а позже днём очереди падают — Red Force лучше оставить на попозже (но не на самое закрытие парка).",
+        "platform": "forum",
+        "source": "https://coasterforce.com/forums/threads/matt-n%E2%80%99s-excursion-to-espa%C3%B1a-9th-12th-september-2024-portaventura-park-ferrari-land.47141/",
+        "confidence": "low"
+      }
+    ]
+  },
+  "sources": [
+    "https://www.busplana.com/en/transfers",
+    "https://www.portaventuraworld.com/en/tickets",
+    "https://www.rome2rio.com/Train/Port-Aventura-station/Tarragona",
+    "https://www.trenes.com/en/train-salou-to-barcelona/",
+    "https://www.visitsalou.eu/en/discover-salou/what-will-you-find/salou-beaches",
+    "https://costadaurada.info/en/activities/beaches-and-coves/beaches/cala-de-la-font",
+    "https://www.portaventuraworld.com/blog/en/influx-best-time-day-to-go",
+    "https://beforeyougotravels.com/destinations/salou",
+    "https://en.eloutput.com/news/Mobile/A-couple-arrested-in-Salou-after-stealing-high-end-cell-phones-on-the-beach./",
+    "https://daveinspain.com/a-complete-guide-to-car-hire-salou/",
+    "https://www.tarragonaturisme.cat/en/el-serrallo-seafaring-quarter-tarragona",
+    "https://www.whereandwhen.net/when/europe/spain/salou/",
+    "https://date.nager.at/api/v3/PublicHolidays/2026/ES",
+    "https://www.numbeo.com/cost-of-living/in/Tarragona",
+    "https://www.wizzair.com/en-gb/information-and-services/prices-discounts/all-services-fees"
+  ],
+  "route": {
+    "base_ru": "Салоу",
+    "legs": [
+      {
+        "from_ru": "Варшава (центр)",
+        "to_ru": "Варшава (WMI)",
+        "mode": "bus",
+        "duration_text_ru": "≈45–60 мин",
+        "duration_min": 55,
+        "cost_amount": 31,
+        "cost_currency": "PLN",
+        "cost_per": "person",
+        "note_ru": "Contbus от центра до терминала WMI (Модлин); альтернатива — FlixBus или поезд KM + бесплатный шаттл (комбобилет ≈22 PLN, ~1 ч). Прямой Modlin Bus больше не работает.",
+        "source": "https://www.cestee.com/airport/warsaw-modlin-wmi/transport"
+      },
+      {
+        "from_ru": "Варшава (WMI)",
+        "to_ru": "Барселона (BCN)",
+        "mode": "flight",
+        "duration_text_ru": "≈3 ч 05 мин",
+        "duration_min": 185,
+        "note_ru": "прямой рейс Wizz Air / Ryanair",
+        "source": "lastminute",
+        "coords": [
+          41.2974,
+          2.0833
+        ]
+      },
+      {
+        "from_ru": "Барселона (BCN)",
+        "to_ru": "Салоу",
+        "mode": "bus",
+        "duration_text_ru": "≈1 ч 30 мин – 2 ч",
+        "duration_min": 105,
+        "cost_amount": 18.6,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "note_ru": "Официальный автобус BusPlana от терминалов T1 и T2 аэропорта BCN до автостанции Салоу; в одну сторону 18,60 €, туда-обратно 33,90 €. Летом усиленное расписание.",
+        "source": "https://www.busplana.com/en/transfers",
+        "coords": [
+          41.0772,
+          1.1417
+        ]
+      },
+      {
+        "from_ru": "Салоу",
+        "to_ru": "PortAventura World",
+        "mode": "bus",
+        "duration_text_ru": "≈30 мин (или 5–10 мин на машине)",
+        "duration_min": 30,
+        "cost_amount": 56,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "cost_prefix_ru": "билет",
+        "note_ru": "Тематический парк в 6 км. Автобус Plana от Carrer Barcelona / Plaça Europa каждый час. Цена — взрослый билет на 1 день в высокий сезон (июль), от 56 €; Ferrari Land оплачивается отдельно.",
+        "source": "https://www.portaventuraworld.com/en/tickets",
+        "map": "PortAventura World, Salou",
+        "coords": [
+          41.0875,
+          1.1569
+        ]
+      },
+      {
+        "from_ru": "Салоу",
+        "to_ru": "Таррагона",
+        "mode": "train",
+        "duration_text_ru": "≈13 мин",
+        "duration_min": 13,
+        "cost_amount": 3,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "note_ru": "Электрички Rodalies R16/R17 от станции Salou-PortAventura до Таррагоны, прямые, билет 1–3 €. Римский город с амфитеатром (ЮНЕСКО).",
+        "source": "https://www.rome2rio.com/Train/Port-Aventura-station/Tarragona",
+        "map": "Tarragona, Spain",
+        "coords": [
+          41.1189,
+          1.2445
+        ]
+      },
+      {
+        "from_ru": "Салоу",
+        "to_ru": "Барселона",
+        "mode": "train",
+        "duration_text_ru": "≈1 ч 25 мин – 1 ч 55 мин",
+        "duration_min": 105,
+        "cost_amount": 15.3,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "note_ru": "Прямой поезд Renfe / Rodalies R17 от станции Salou-PortAventura до Барселоны (Sants). Быстрые рейсы ≈1 ч 25–30 мин; билет от 15,30 €.",
+        "source": "https://www.trenes.com/en/train-salou-to-barcelona/",
+        "map": "Barcelona, Spain",
+        "coords": [
+          41.3874,
+          2.1686
+        ]
+      },
+      {
+        "from_ru": "Салоу",
+        "to_ru": "Камбрильс",
+        "mode": "bus",
+        "duration_text_ru": "≈19–30 мин",
+        "duration_min": 19,
+        "cost_amount": 2,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "note_ru": "Прибрежный городок в 7 км. Прямой автобус Empresa Plana каждые 30 мин, ≈19 мин, билет 1–2 €. Рыбацкий порт, набережная и пляжи.",
+        "source": "https://www.omio.com/buses/salou/cambrils",
+        "map": "Cambrils, Tarragona, Spain",
+        "coords": [
+          41.0671,
+          1.0608
+        ]
+      },
+      {
+        "from_ru": "Салоу",
+        "to_ru": "Реус",
+        "mode": "bus",
+        "duration_text_ru": "≈13 мин",
+        "duration_min": 13,
+        "cost_amount": 2,
+        "cost_currency": "EUR",
+        "cost_per": "person",
+        "note_ru": "Родина Антонио Гауди. Прямой автобус Empresa Plana от Salou - Pl. Europa до Реуса каждый час, ≈13 мин, билет 1–4 €.",
+        "source": "https://www.busbud.com/en/bus-salou-reus-bus_stop/i/sp2c9v-sp2f15j52",
+        "map": "Reus, Tarragona, Spain",
+        "coords": [
+          41.1561,
+          1.1069
+        ]
+      }
+    ]
+  },
+  "activities": [
+    {
+      "title": "PortAventura World",
+      "category": "Парки развлечений",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "Целый день",
+      "deeplink": "https://www.getyourguide.com/s/?q=PortAventura%20World",
+      "source": "https://www.getyourguide.com/s/?q=PortAventura%20World",
+      "coords": [
+        41.0875,
+        1.1569
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZNyGHs-TGPYC06PYUy-eDuRLK2k8NUfhvGiNWwQ0BeBayIn2iRrjux08LWgUh3jtGZzypyRrAN-r7y-isavhKTz5EPeeuTtp2BCUFOcIIzmNvadJbAH8aPkPxilKekxnKymtNxcxXzqiPSK=s4800-w1200",
+      "blurb_ru": "Крупнейший тематический парк Коста-Даурады в 10 минутах от Салоу: американские горки, шоу и тематические зоны. Билеты и комбо на несколько дней.",
+      "photo_attribution": "Andrei Haurylkou"
+    },
+    {
+      "title": "Ferrari Land",
+      "category": "Парки развлечений",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "Полдня–день",
+      "deeplink": "https://www.getyourguide.com/s/?q=Ferrari%20Land%20PortAventura",
+      "source": "https://www.getyourguide.com/s/?q=Ferrari%20Land%20PortAventura",
+      "coords": [
+        41.0865,
+        1.153
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZMjs2OnG3JqPNKw5KslDzJwLHPnUJwEadWCOPK0fclzJxcsZb8tFslaDZYd4RONg_9aIX9R6xCeY9krkHHmz5Qxdxqujr-OjiwniY3SwHdQzabQSxpPQQmuYhHBVGBPSsLJj5jbiA-NS4sK=s4800-w1200",
+      "blurb_ru": "Парк Ferrari внутри PortAventura с самой высокой и быстрой вертикальной горкой Европы Red Force. Отдельный билет или комбо с основным парком.",
+      "photo_attribution": "Ferrari Land"
+    },
+    {
+      "title": "Таррагона: римское наследие",
+      "category": "Экскурсии и культура",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "2–3 часа",
+      "deeplink": "https://www.getyourguide.com/s/?q=Tarragona%20Roman%20ruins%20walking%20tour",
+      "source": "https://www.getyourguide.com/s/?q=Tarragona%20Roman%20ruins%20walking%20tour",
+      "coords": [
+        41.1167,
+        1.2547
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZMUwifsLcdDanJ5tdNXWBR5XB9sn9toEEwk-GfWOLZJlkQT6Hfk0DoIC4xcYwd5P8-41FIyMSdqkUO8tCiFTz0EeoVKELK6sUJHxfkWjAMlbwkVKES9XTJUFOGyYKPfHepbfPdwu4YGEMDsfRS-S0o=s4800-w1200",
+      "blurb_ru": "Пешеходная экскурсия по объекту ЮНЕСКО: римский амфитеатр у моря, цирк, городские стены и старый город — в 13 минутах на поезде.",
+      "photo_attribution": "Bryce Owen"
+    },
+    {
+      "title": "Барселона: однодневная поездка",
+      "category": "Однодневные поездки",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "Целый день",
+      "deeplink": "https://www.getyourguide.com/s/?q=Barcelona%20day%20trip%20from%20Salou%20Costa%20Daurada",
+      "source": "https://www.getyourguide.com/s/?q=Barcelona%20day%20trip%20from%20Salou%20Costa%20Daurada",
+      "coords": [
+        41.3851,
+        2.1734
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZNLKxK_SgpCrZhEdBBCh4lj5iZLS_10V2BztmwZpn7q3M3iCrqALdCnZHAZxWerakFtqc45lY9Btx_DsHJJQcAEP3MDbvPAsYGe26K6bc86eBroIrNxrcJlEdOrt09P1LUlyEtr35N3XnU2ug=s4800-w1200",
+      "blurb_ru": "Поездка на целый день в Барселону: Саграда Фамилия, Готический квартал и Рамбла. Туры с трансфером или самостоятельно на поезде.",
+      "photo_attribution": "moehasan100"
+    },
+    {
+      "title": "Камбрильс: рыбацкий порт и гастрономия",
+      "category": "Города и побережье",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "Полдня",
+      "deeplink": "https://www.getyourguide.com/s/?q=Cambrils%20Costa%20Daurada",
+      "source": "https://www.getyourguide.com/s/?q=Cambrils%20Costa%20Daurada",
+      "coords": [
+        41.0664,
+        1.0606
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZM-B7a2bNTCCdxxGy93AHgIrRvaUSi_VRMxM7yl06Tm9_e_udGpiK0Oo72WbtbaYZ3NM_6mVCsqGJNRyuC1OQvZWQ63FLgFZp3nVforS1fzm3gvLsrjtHYicUcvPlfZQwRWw4a7FnWOh03EZg=s4800-w1200",
+      "blurb_ru": "Соседний рыбацкий городок в 10 минутах: живописный порт, маяк и рестораны морепродуктов — гастрономическая столица региона.",
+      "photo_attribution": "artur sobrín martín"
+    },
+    {
+      "title": "Морская прогулка / катамаран из Салоу",
+      "category": "Водные развлечения",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "2–4 часа",
+      "deeplink": "https://www.getyourguide.com/s/?q=Salou%20boat%20trip%20catamaran",
+      "source": "https://www.getyourguide.com/s/?q=Salou%20boat%20trip%20catamaran",
+      "coords": [
+        41.0772,
+        1.1417
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZPuEdt0Uuwn1y1T_GY27i7qQk3rNcnmal57htItx5xOZg02THYJJQw7X_MllQnxLCj77BGcmo1ONtSy-CDeIDQtp3u8zHFy8IdJapso-FMfZK5sLJjB8A4-hRaTdeYZR4pZ7VkSPsMZXT11-A=s4800-w594",
+      "blurb_ru": "Прогулка на катамаране вдоль побережья из порта Салоу: купание в бухтах, виды на скалистые мысы Cap Salou, часто с напитками на борту.",
+      "photo_attribution": "Boat Party Salou"
+    },
+    {
+      "title": "Салоу: главные места и побережье",
+      "category": "Города и побережье",
+      "price": null,
+      "rating": null,
+      "duration_text_ru": "2–3 часа",
+      "deeplink": "https://www.getyourguide.com/s/?q=Salou%20highlights",
+      "source": "https://www.getyourguide.com/s/?q=Salou%20highlights",
+      "coords": [
+        41.0772,
+        1.1417
+      ],
+      "photo": "https://lh3.googleusercontent.com/place-photos/AJRVUZNRlOBmEL5OrinXFejzzWi613GMK6aaHq1DjOaDPRRXjN5rcr9am8TmkGD_S5Awu9jy2L-qxvhlLB6BUz5hkh2sM6ZpYJDJ5wjVYLyst6-T8hAP6bGmQs1AfI7peNXQnU76nQdGock2ODfXyw=s4800-w1200",
+      "blurb_ru": "Сам Салоу: набережная Passeig Jaume I с поющим фонтаном, пляжи Llevant и Ponent и тропа Camí de Ronda вдоль скал Cap Salou.",
+      "photo_attribution": "Martin"
+    }
+  ]
+}
